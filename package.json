@@ -1,0 +1,22 @@
+{
+  "name": "gradient-background",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rez4president/gradient-background.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rez4president/gradient-background/issues"
+  },
+  "homepage": "https://github.com/rez4president/gradient-background#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
